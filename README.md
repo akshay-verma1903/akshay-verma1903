@@ -19,7 +19,6 @@
 - 📫 How to reach me >> **Email Id** - **akshayverma.1903@gmail.com**
 
 <br/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshay-verma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-verma1" height="30" width="40" /></a>
@@ -39,8 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-verma1903&show_icons=true&locale=en&layout=compact" alt="akshay-verma1903"/></p>
 
-<p>&nbsp;&nbsp;&nbsp;<img align="left" alt="akshay-verma1903's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akshay-verma1903&theme=radical&show_icons=true" /></p>
-
-<br/><br/>
+<p><img align="left" alt="akshay-verma1903's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akshay-verma1903&theme=radical&show_icons=true" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-verma1903&" alt="akshay-verma1903" /></p>
