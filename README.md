@@ -39,10 +39,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-verma1903&show_icons=true&locale=en&layout=compact" alt="akshay-verma1903"/></p>
 
-<br/>
+<br/><br/>
 
 <p><img align="left" alt="akshay-verma1903's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akshay-verma1903&theme=dark&show_icons=true" /></p>
 
-<br/>
+<br/><br/>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-verma1903&" alt="akshay-verma1903" /></p>
