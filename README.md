@@ -1,10 +1,10 @@
-<h1 align="left">Hi 👋, I'm Akshay Verma</h1>
+<h1 align="centre">Hi 👋, I'm Akshay Verma</h1>
 
-<h3 align="left">A passionate Data Scientist from India</h3>
+<h3 align="centre">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-verma1903&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-verma1903" /> </p>
 
-<img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
@@ -39,9 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-verma1903&show_icons=true&locale=en&layout=compact" alt="akshay-verma1903"/></p>
 
-<br/><br/>
-
-<p><img align="left" alt="akshay-verma1903's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akshay-verma1903&theme=dark&show_icons=true" /></p>
+<p>&nbsp;&nbsp;&nbsp;<img align="left" alt="akshay-verma1903's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akshay-verma1903&theme=radical&show_icons=true" /></p>
 
 <br/><br/>
 
