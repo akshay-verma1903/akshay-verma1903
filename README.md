@@ -19,13 +19,6 @@
 - 📫 How to reach me >> **Email Id** - **akshayverma.1903@gmail.com**
 
 <br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshay-verma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-verma1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akshayverma_1903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@akshayverma_1903" height="30" width="40" /></a>
-</p>
-
-<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-verma1903" alt="akshay-verma1903" /></a> </p>
 <br/>
